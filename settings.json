@@ -1,0 +1,36 @@
+{
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.8,
+  "editor.tabSize": 2,
+  "editor.rulers": [80, 120],
+  // "editor.formatOnSave": true,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.iconTheme": "symbols",
+  "window.zoomLevel": 0.2,
+  "symbols.hidesExplorerArrows": false,
+  "explorer.compactFolders": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit"
+  },
+  "workbench.tree.indent": 14,
+  "git.confirmSync": false,
+  "workbench.colorTheme": "Min Dark",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+  "breadcrumbs.enabled": false,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "symbols.folders.associations": {
+    "domain": "folder-app"
+  },
+  "symbols.files.associations": {
+    "*.module.ts": "nest",
+    "*.guard.ts": "nest",
+    "*.e2e-spec.ts": "ts-test",
+    "*.test.tsx": "ts-test",
+    "*.spec.ts": "ts-test",
+    "vitest.config.e2e.ts": "vite"
+  }
+}
